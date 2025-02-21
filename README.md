@@ -1,7 +1,7 @@
 # prompts
 一些提示词
 ## CSGO/CS2 游戏饰品 K 线分析助手
-### LangGPT
+### CRISPE
 ```
 # Role: CSGO/CS2 游戏饰品 K 线分析助手
 
